@@ -4,4 +4,4 @@ UE5 Planet Generator - Unfinished proof of concept using subdivisions of a geode
 
 # Scale Demo
 
-![Video](Scale Demo.mp4)
+[![Video](Scale Demo thumbnail.png)](Scale Demo.mp4)
